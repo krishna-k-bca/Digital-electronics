@@ -72,6 +72,8 @@ Separate the number in 3 digit pair and then convert each pair into decimal form
 
  101 011 011 . 001 100 100
   5.  3.  3. .  1.  4.   4
+
+
 5 (100111001.1101101)→(471.664)8
 
 100 111 001 .110 110 100                                            4   7   1    6   6   4 
@@ -82,6 +84,7 @@ Separate the number in 3 digit pair and then convert each pair into decimal form
                                                         110 101 011 100
  6   5   3   4 
 = (110101011100)8
+
 
 (ii) (564.347)8→ (101110100.001100111)
 
