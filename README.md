@@ -58,12 +58,10 @@ Separate the number in 3 digit pair and then convert each pair into decimal form
      001 110 011 
       1   3   3
 (133)8 answer 
-
 2 (10110)2 →  (21)8
 
        011   010
         2     1
-
 3 (111010110111)2→ (7267)8
 
    111 010 110 111
