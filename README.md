@@ -66,6 +66,8 @@ Separate the number in 3 digit pair and then convert each pair into decimal form
 
    111 010 110 111
     7   2   6   7
+
+
 4 (101011011.0011001)2→ (533.144)8
 
  101 011 011 . 001 100 100
