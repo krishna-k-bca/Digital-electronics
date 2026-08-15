@@ -80,6 +80,8 @@ Separate the number in 3 digit pair and then convert each pair into decimal form
 
 # OCTALTO BINARY CONVERSION:- 
 
+
+
 (ⅰ) (6534)8 →(110101011100)2     
                                                         110 101 011 100
  6   5   3   4 
