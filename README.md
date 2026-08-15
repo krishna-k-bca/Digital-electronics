@@ -15,9 +15,9 @@ some important types of number system are-
 3. octal number system (Base- 8, number 0-7)
 4. hexadecimal number system (Base- 16, number 0-15)
 
-       #Problem related to number system-
+          PROBLEM RELATED TO NUMBER SYSTEM
 
-1. Decimal to Binary Conversion
+1. DECIMAL TO BINARY CONVERSION:- 
 
 (ⅰ) (39.67)→(100111.10)2
 
