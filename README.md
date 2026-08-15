@@ -42,3 +42,24 @@ some important types of number system are-
 
 (101)2 → (5)10 
 
+3. Decimal to octal (same, but divide by 8)   4.Octal to decimal (same, but multiply by 8)
+5. Decimal to to Hexadecimal(Same, but divide by 16) 6. Hexadecimal to Decimal (same, but multiply by 16)
+
+# binary to octal conversion:- 
+
+Binary →Decimal →octal [Long method)
+
+1 (1011011)2 →(133)8
+
+Shorcut Method:-(Trick)
+
+Separate the number in 3 digit pair and then convert each pair into decimal form.
+
+     001 110 011 
+      1   3   3
+(133)8 answer 
+2 (10110)2 →  (21)8
+
+       011   010
+        2     1
+
